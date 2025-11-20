@@ -13,7 +13,7 @@
 
 ### 🚀 About Me
 
-I am a **Computer Science Student** at **Sapientia University**. I have a strong passion for programming and creating new things.
+I am a **Computer Science Student** at **Sapientia University**.
 
 - 🏎️ I really like **sport cars**, especially **Formula 1** and **drifting**.
 - 🚴‍♂️ I also enjoy **cycling in the forest**.
@@ -35,7 +35,7 @@ I am a **Computer Science Student** at **Sapientia University**. I have a strong
 ### 🛠️ Languages & Tools
 
 <div align="center">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/LightningJS-000000?style=for-the-badge&logo=lightning&logoColor=white" alt="LightningJS" />
