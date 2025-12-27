@@ -23,15 +23,6 @@ I am a **Computer Science Student** at **Sapientia University**.
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tihamer05&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tihamer05&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Langs" />
-</div>
-
----
-
 ### 🛠️ Languages & Tools
 
 <div align="center">
